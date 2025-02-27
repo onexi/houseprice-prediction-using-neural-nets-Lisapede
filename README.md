@@ -27,3 +27,9 @@ reran code > Test Mean Squared Error: 910590592.0
 # Define the neural network model with regularization and batch normalization
 Test Mean Squared Error: 955838208.0
 this also increased the error...
+
+adding more structure also increased the error...
+Test Mean Squared Error: 974426944.0
+
+--------
+NEED TO CHANGE OUR APPROACH
