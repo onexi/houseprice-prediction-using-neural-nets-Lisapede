@@ -33,3 +33,8 @@ Test Mean Squared Error: 974426944.0
 
 --------
 NEED TO CHANGE OUR APPROACH
+revisited the order of the x and y train / test and reran code
+Test Mean Squared Error: 0.1261841207742691
+
+_________
+
