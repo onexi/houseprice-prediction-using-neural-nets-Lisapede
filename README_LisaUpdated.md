@@ -36,5 +36,16 @@ NEED TO CHANGE OUR APPROACH
 revisited the order of the x and y train / test and reran code
 Test Mean Squared Error: 0.1261841207742691
 
+Run 2 - 0.12360217422246933
 _________
 
+EVALUATION OF THE ERROR
+
+MSE = 0.1236 MSE
+The target variable spans approximately 8.62 units (6.83 to (−1.79))
+
+An MSE of 0.1236 corresponds to a Root Mean Squared Error (RMSE) of around 0.35 units. 
+
+Relative Error: 0.35 / 8.62 ≈ 4.1 % error 
+
+_________
